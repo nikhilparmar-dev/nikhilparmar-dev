@@ -46,7 +46,7 @@
 
 ---
 
-# 🐍 Contribution Snake
+<h3>🐍 𝐂𝐨𝐧𝐭𝐫𝐢𝐛𝐮𝐭𝐢𝐨𝐧 𝐒𝐧𝐚𝐤𝐞</h3>
 
 <p align="center">
 
@@ -56,7 +56,7 @@
 
 ---
 
-# 👀 Profile Views
+<h3> 👀 𝐏𝐫𝐨𝐟𝐢𝐥𝐞 𝐕𝐢𝐞𝐰𝐬 </h3>
 
 <p align="center">
 
@@ -66,7 +66,7 @@
 
 ---
 
-# ⚡ Fun Fact
+<h3> ⚡ 𝐅𝐮𝐧 𝐅𝐚𝐜𝐭</h3>
 
 💡 I enjoy **backend logic more than UI design** — turning complex API logic into clean, working solutions is my thing!
 
