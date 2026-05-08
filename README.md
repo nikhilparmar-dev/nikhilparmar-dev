@@ -14,7 +14,7 @@
 🔭 I’m currently working on Backend projects using Python, FastAPI, and Django<br>🌱 I’m currently learning FastAPI, Django REST Framework, MySQL, and backend development fundamentals<br>👯 I’m looking to collaborate on beginner-friendly backend and API projects<br>💬 Ask me about Python basics, backend learning, REST APIs, and beginner projects<br>⚡ Fun fact: I enjoy backend logic more than UI design
 
 
-<h3>🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :</h3>
+# <h3>🌐 𝐂𝐨𝐧𝐧𝐞𝐜𝐭 𝐖𝐢𝐭𝐡 𝐌𝐞 :</h3>
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhil_1_8_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-parmar18) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilparmarofc@gmail.com) 
 
 <h3💻 𝐓𝐞𝐜𝐡 𝐒𝐭𝐚𝐜𝐤 :</h3>
