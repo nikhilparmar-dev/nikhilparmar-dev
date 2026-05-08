@@ -1,4 +1,4 @@
-<h3 align="center">Hi 👋, I'm Nikhil R. Parmar</h3>
+<h3 align="center">Hi 👋, I'm ℕ𝕚𝕜𝕙𝕚𝕝 ℝ. ℙ𝕒𝕣𝕞𝕒𝕣</h3>
 
 <h4 align="center">🚀 Python Backend Developer | FastAPI & Django REST APIs</h4>
 
