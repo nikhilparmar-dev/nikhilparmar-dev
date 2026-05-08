@@ -10,7 +10,7 @@
 
 <p align="center">
 
- </h3>💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 :</h3>
+#</h3>💫 𝐀𝐛𝐨𝐮𝐭 𝐌𝐞 :</h3>
 🔭 I’m currently working on Backend projects using Python, FastAPI, and Django<br>🌱 I’m currently learning FastAPI, Django REST Framework, MySQL, and backend development fundamentals<br>👯 I’m looking to collaborate on beginner-friendly backend and API projects<br>💬 Ask me about Python basics, backend learning, REST APIs, and beginner projects<br>⚡ Fun fact: I enjoy backend logic more than UI design
 
 
